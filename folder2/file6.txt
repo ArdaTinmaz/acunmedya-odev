@@ -1,2 +1,6 @@
 proje özet
 merge için maine değer giriyorum kendi branchime merge edicem
+
+
+
+silinecek commit
