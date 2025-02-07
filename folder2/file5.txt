@@ -1,0 +1,2 @@
+açıklamalar
+2 farklı klasör ve her klasörün içinde 3 dosya bulunacak şekilde ayarladım.
